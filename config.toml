@@ -1,4 +1,4 @@
-baseurl = "https://leizungjyun.github.io/blog/"
+baseurl = "https://leizungjyun.github.io/"
 DefaultContentLanguage = "en"
 title = "LI Shaun's Webyard"
 theme = "beautifulhugo"
