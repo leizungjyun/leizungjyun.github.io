@@ -24,21 +24,51 @@ params:
       threshold: 0.4
       minMatchCharLength: 0
       keys: ["title", "permalink", "summary", "content"] 
-menu: 
-  main:
-    - name: Search
-      url: /search/
-      weight: 5
-    - name: Tags
-      url: /tags/
-      weight: 20
-    - name: Archives
-      url: /archives/
-      weight: 10
-    - name: About
-      url: /about/
-      weight: 30
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    menu: 
+      main:
+        - name: Search
+          url: /search/
+          weight: 5
+        - name: Tags
+          url: /tags/
+          weight: 20
+        - name: Archives
+          url: /archives/
+          weight: 10
+        - name: About
+          url: /about/
+          weight: 30
        
+  zh:
+    title: "Shaun的主页"
+    languageName: "中文"
+    languageAltTitle: "中文"
+    weight: 2
+
+
+    homeInfoParams:
+      title: Hi, 你来啦！
+      content: 学术、技术、艺术
+
+    menu: 
+      main:
+        - name: 搜索
+          url: /search/
+          weight: 5
+        - name: 标签
+          url: /tags/
+          weight: 20
+        - name: 存档
+          url: /archives/
+          weight: 10
+        - name: 关于
+          url: /about/
+          weight: 30
  
 
 outputs:
