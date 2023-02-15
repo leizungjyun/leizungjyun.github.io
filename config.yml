@@ -3,3 +3,30 @@ languageCode: en-us
 title: Shaun's Webyard
 
 theme: PaperMod
+
+params:
+  homeInfoParams:
+    title: Hi, there!
+    content: Science, Technology, and Art
+  socialIcons:
+    - name: github
+      url: https://github.com/leizungjyun
+  showBreadCrumbs: true
+  showReadingTime: true
+  showShareButtons: true
+  showPostNavLinks: true
+menu: 
+  main:
+     - identifier: tags
+       name: Tags
+       url: /tags/
+       weight: 20
+     - identifier: archives
+       name: Archives
+       url: /archives/
+       weight: 10
+     - identifier: abou
+       name: About
+       url: /about/
+       weight: 30
+ 
