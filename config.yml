@@ -50,6 +50,7 @@ languages:
     languageAltTitle: "中文"
     weight: 2
 
+    dateFormat: "2006年01月02日"
 
     homeInfoParams:
       title: Hi, 你来啦！
