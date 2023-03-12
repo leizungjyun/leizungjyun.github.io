@@ -13,6 +13,7 @@ Slides are expected to be posted every Monday.
 
 - [Week 01](https://leizungjyun.github.io/spring2023/music15b/week01.html) Overview and Review
 - [Week 02](https://leizungjyun.github.io/spring2023/music15b/week02.html) Melody, Rhythm, and Sound
+- [Week 03](https://leizungjyun.github.io/spring2023/music15b/week03.html) Instrumentation
 ### Usage Tips
 - Press ESC to enter the slide overview.
 - Press CTRL+Shift+F to search slide content.
