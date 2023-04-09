@@ -16,7 +16,8 @@ Slides are expected to be posted every Monday.
 - [Week 03](https://leizungjyun.github.io/spring2023/music15b/week03.html) Instrumentation
 - [Week 04](https://leizungjyun.github.io/spring2023/music15b/week04.html) Harmony, Texture, and Form
 - [Week 05](https://leizungjyun.github.io/spring2023/music15b/week05.html) Musical Style
-
+- [Week 06](https://leizungjyun.github.io/spring2023/music15b/week06.html) Musical Theater
+- [Week 07](https://leizungjyun.github.io/spring2023/music15b/week07.html) Modern Jazz
 ### Usage Tips
 - Press ESC to enter the slide overview.
 - Press CTRL+Shift+F to search slide content.
