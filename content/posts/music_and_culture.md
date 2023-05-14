@@ -19,7 +19,7 @@ Slides are expected to be posted every Monday.
 - [Week 06](https://leizungjyun.github.io/spring2023/music15b/week06.html) Musical Theater
 - [Week 07](https://leizungjyun.github.io/spring2023/music15b/week07.html) Modern Jazz
 - [Week 10](https://leizungjyun.github.io/spring2023/music15b/week10.html) The Rock Revolution
-- [Week 11](https://leizungjyun.github.io/spring2023/music15b/week11.html) The Rock Revolution
+- [Week 11](https://leizungjyun.github.io/spring2023/music15b/week11.html) San Francisco
 ### Usage Tips
 - Press ESC to enter the slide overview.
 - Press CTRL+Shift+F to search slide content.
