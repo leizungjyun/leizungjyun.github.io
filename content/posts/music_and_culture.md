@@ -20,6 +20,7 @@ Slides are expected to be posted every Monday.
 - [Week 07](https://leizungjyun.github.io/spring2023/music15b/week07.html) Modern Jazz
 - [Week 10](https://leizungjyun.github.io/spring2023/music15b/week10.html) The Rock Revolution
 - [Week 11](https://leizungjyun.github.io/spring2023/music15b/week11.html) San Francisco
+- [Week 12](https://leizungjyun.github.io/spring2023/music15b/week12.html) The New Trends in the Late 1970s
 ### Usage Tips
 - Press ESC to enter the slide overview.
 - Press CTRL+Shift+F to search slide content.
