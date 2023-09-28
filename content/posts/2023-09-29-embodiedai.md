@@ -1,6 +1,6 @@
 ---
-title: "Webinar: Coding with Copilot"
-date: 2023-09-29T21:22:39+08:00
+title: "Webinar: Embodied AI with Foundation Models"
+date: 2023-09-28T22:09:24+08:00
 draft: false
 tag: ['AI']
 cover:
